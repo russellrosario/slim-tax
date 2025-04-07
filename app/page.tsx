@@ -36,7 +36,7 @@ export default function Home() {
                     <Sparkles className="mr-1 h-3 w-3" /> AI-Powered Tax Strategy
                   </Badge>
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                    Your Personal AI Tax Strategist
+                    Your Personal AI Tax Strategist!
                   </h1>
                   <p className="text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed max-w-[600px]">
                     Slim Tax uses advanced AI to help you optimize your tax strategy, find deductions, and save money
